@@ -16,5 +16,8 @@ navigation:
   - name: Classes
     url: 'http://www.secure-booker.com/bodytechniques/WorkshopsStart.aspx'
     type: external
+  - name: Massage
+    url: 'https://www.onsite.bodytechniques.com/corporate/ADC'
+    type: external
 title: Yoga.  BootCamp. Massage.
 description: Feel Great at Work
