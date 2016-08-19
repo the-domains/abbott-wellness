@@ -11,6 +11,12 @@ color:
     - '#F2EBC7'
     - '#348899'
 layout_spectrum: 0.31741307070478797
+author:
+  name: Body Techniques
+  email: abbott@bodytechniques.com
+  url: 'https://thegrid.ai/abbott-wellness/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/43c0c99d-41c2-491e-874d-0ef1e696df15.jpg
 name: Abbott Wellness
 navigation:
   - name: Classes
@@ -19,5 +25,7 @@ navigation:
   - name: Massage
     url: 'https://www.onsite.bodytechniques.com/corporate/ADC'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e82437aa-2d49-4202-9534-de770a53763c.jpg
 title: Yoga.  BootCamp. Massage.
 description: Feel Great at Work
