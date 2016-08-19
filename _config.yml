@@ -12,5 +12,9 @@ color:
     - '#348899'
 layout_spectrum: 0.31741307070478797
 name: Abbott Wellness
+navigation:
+  - name: Classes
+    url: 'http://www.secure-booker.com/bodytechniques/WorkshopsStart.aspx'
+    type: external
 title: Yoga.  BootCamp. Massage.
 description: Feel Great at Work
